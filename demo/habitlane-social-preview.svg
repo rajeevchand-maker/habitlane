@@ -1,0 +1,18 @@
+<svg width="1280" height="640" viewBox="0 0 1280 640" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1280" height="640" fill="#F1E5CF"/>
+  <rect x="44" y="38" width="1192" height="564" rx="34" fill="#FFF8ED"/>
+  <rect x="84" y="90" width="520" height="460" rx="28" fill="#FFFDF7" stroke="#D9C7AE"/>
+  <rect x="636" y="90" width="560" height="140" rx="24" fill="#FFFDF7" stroke="#D9C7AE"/>
+  <rect x="636" y="252" width="560" height="298" rx="24" fill="#FFFDF7" stroke="#D9C7AE"/>
+  <text x="96" y="138" fill="#8C5A43" font-family="IBM Plex Mono, monospace" font-size="20" letter-spacing="4">HABITLANE</text>
+  <text x="96" y="214" fill="#1E2833" font-family="Iowan Old Style, serif" font-size="62">Recurring work</text>
+  <text x="96" y="278" fill="#1E2833" font-family="Iowan Old Style, serif" font-size="62">without checklist drift.</text>
+  <text x="96" y="352" fill="#5C6773" font-family="Avenir Next, sans-serif" font-size="26">Schedule-aware routines, visible carryovers, and lightweight insight for homes and small teams.</text>
+  <text x="656" y="138" fill="#8C5A43" font-family="IBM Plex Mono, monospace" font-size="18" letter-spacing="3">FLAGSHIP STORY</text>
+  <text x="656" y="188" fill="#1E2833" font-family="Iowan Old Style, serif" font-size="54">Daily agenda + routine library + insights</text>
+  <text x="656" y="302" fill="#B65F4C" font-family="IBM Plex Mono, monospace" font-size="18" letter-spacing="3">TODAY</text>
+  <text x="656" y="354" fill="#1E2833" font-family="Iowan Old Style, serif" font-size="44">Carry work forward only when it should move.</text>
+  <text x="656" y="414" fill="#5C6773" font-family="Avenir Next, sans-serif" font-size="24">Blocked work stays visible. Base routines do not get double-counted. Owners stay clear.</text>
+  <text x="656" y="494" fill="#5D8F79" font-family="IBM Plex Mono, monospace" font-size="18" letter-spacing="3">OSS READY</text>
+  <text x="656" y="540" fill="#1E2833" font-family="Avenir Next, sans-serif" font-size="24">AI-readable README, demo-safe assets, and a clean public launch path.</text>
+</svg>
