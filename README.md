@@ -53,6 +53,13 @@ npm run dev
 
 Then open `http://localhost:3000`.
 
+Verification commands:
+
+```bash
+npm run test
+npm run check
+```
+
 ## Demo Assets
 
 The repo now includes committed demo-safe assets for screenshots and social previews:
@@ -99,7 +106,7 @@ demo/
   Poster and social-preview assets
 
 tests/
-  Placeholder for future automated test fixtures
+  Engine and insight unit coverage
 ```
 
 ## Implementation Map
@@ -195,6 +202,7 @@ What is intentionally missing right now:
 - Contribution guide: [CONTRIBUTING.md](CONTRIBUTING.md)
 - Launch review: [docs/release-readiness.md](docs/release-readiness.md)
 - Public-safety review: [docs/public-safety-review.md](docs/public-safety-review.md)
+- Test coverage: `npm run test`
 
 ## Next Steps
 
